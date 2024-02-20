@@ -7,3 +7,12 @@ In addition to my technical skills, I bring a keen eye for design aesthetics and
 🔭 <b>Currently working on:</b> my portfolio with Next.js<br/>
 🌱 <b>Currently learning:</b> React, Next.js and Figma<br/>
 ⚡️ <b>Interests and hobbies:</b> houseplants, photography, baking
+
+#### Socials:
+[![Instagram]][Instagram-url]
+[![Behance]][Behance-url]
+
+[Instagram]: https://img.shields.io/badge/instagram-link?style=for-the-badge&logo=instagram&logoColor=white&color=CD5858
+[Instagram-url]: https://www.instagram.com/petrasivonen
+[Behance]: https://img.shields.io/badge/behance-link?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff
+[Behance-url]: https://www.behance.net/petrasivonen
