@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Petra.
+![github-banner](https://github.com/psivonen/psivonen/assets/44951778/c1b82d05-2326-4a1a-b32d-60c591c5fb96)
 
 I’m a passionate aspiring front-end developer and designer dedicated to creating visually stunning and user-friendly digital experiences. I have versatile programming skills through studies and my own projects. In addition to my programming skills, my graphic design skills add a unique look to projects and ensure a fascinating visual look. I want to develop constantly, so I eagerly accept new challenges. 
 
