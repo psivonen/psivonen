@@ -1,8 +1,8 @@
 ### Hi there! 👋 I'm Petra.
 
-I'm an aspiring front-end developer and designer, dedicated to creating visually stunning and user-friendly digital experiences. With skills in HTML, CSS, and JavaScript, I am committed to staying on the cutting edge of web technologies to deliver modern and responsive designs.
+I’m a passionate aspiring front-end developer and designer dedicated to creating visually stunning and user-friendly digital experiences. I have versatile programming skills through studies and my own projects. In addition to my programming skills, my graphic design skills add a unique look to projects and ensure a fascinating visual look. I want to develop constantly, so I eagerly accept new challenges. 
 
-In addition to my technical skills, I bring a keen eye for design aesthetics and understanding of user experience. Whether it's refining a user interface, optimizing website performance, or tackling complex design challenges, I am enthusiastic about every aspect of the development process.
+In addition to coding and my other projects, I spend time with my houseplants, enjoy photography and do various crafts.
 
 🔭 <b>Currently working on:</b> my portfolio with Next.js<br/>
 🌱 <b>Currently learning:</b> React, Next.js and Figma<br/>
