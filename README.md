@@ -13,6 +13,8 @@ In addition to coding and my other projects, I spend time with my houseplants, e
 [![Instagram]][Instagram-url]
 [![Behance]][Behance-url]
 
+<b>Portfolio:</b> https://petrasivonen.vercel.app/ (only in finnish at the moment)
+
 [Instagram]: https://img.shields.io/badge/instagram-link?style=for-the-badge&logo=instagram&logoColor=white&color=CD5858
 [Instagram-url]: https://www.instagram.com/petrasivonen
 [Behance]: https://img.shields.io/badge/behance-link?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff
